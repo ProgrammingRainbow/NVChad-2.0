@@ -1,4 +1,6 @@
-My NVChad Custom directory. This was created mostly from watching Dreams of Code videos. NVChad did update causing breaking changes so i am using version 2.0 of NVChad. Haskell is currently not working correctly. I have also set this up for 4 spacing tabs. This seems to work on all languages except for Ruby. Each ruby file you open will need `:set shiftwidth=4`. I do not have a list of packages that need to be installed on your system to make full use of all the LSPs and formatters.
+My NVChad Custom directory. This was created mostly from watching Dreams of Code videos. https://www.youtube.com/playlist?list=PL05iK6gnYad1sb4iQyqsim_Jc_peZdNXf
+
+NVChad did update causing breaking changes so i am using version 2.0 of NVChad. Haskell is currently not working correctly. I have also set this up for 4 spacing tabs. This seems to work on all languages except for Ruby. Each ruby file you open will need `:set shiftwidth=4`. I do not have a list of packages that need to be installed on your system to make full use of all the LSPs and formatters.
 
 Backup current nvim config in your home director named nvim-backup with a random number:
 ```
